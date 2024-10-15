@@ -1,4 +1,4 @@
-# Pong Game
+# Ping Pong Game
 
 This is a simple recreation of the classic Pong game built using Python's Turtle graphics library. The game features two paddles and a ball, allowing two players to control the paddles and score points when the ball passes their opponent's paddle.
 
