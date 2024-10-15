@@ -24,7 +24,7 @@ This is a simple recreation of the classic Pong game built using Python's Turtle
 ## How to Run
 
 1. **Clone the repository** or download the code files.
-2. Run the `pong_game.py` script using Python:
+2. Run the `pingponggame.py` script using Python:
    ```bash
-   python pong_game.py
+   python pingponggame.py
 
